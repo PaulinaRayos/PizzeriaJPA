@@ -1,0 +1,15 @@
+dao\VentaDAO.class
+dao\IngredienteDAO.class
+com\mycompany\pizzeriajpa\PizzeriaJPA.class
+pruebas\VentaDAOTest.class
+persistencia\Venta.class
+com\mycompany\pizzeriajpa\ManytoManyProductosVentas.class
+com\mycompany\pizzeriajpa\RegistrosAs13.class
+persistencia\Ingrediente.class
+persistencia\Empleado.class
+persistencia\TipoIngrediente.class
+dao\ProductoDAO.class
+persistencia\ProductoVenta.class
+pruebas\ProductoDAOTest.class
+pruebas\IngredienteDAOTest.class
+persistencia\Producto.class
